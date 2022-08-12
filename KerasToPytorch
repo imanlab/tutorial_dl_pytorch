@@ -1,5 +1,15 @@
-Mistakes Chiara made "translating" from keras to pytorch
+## Mistakes Chiara made "translating" from keras to pytorch
 
 In case you were wondering how to not proceed
 
-1)
+1) it's a completely different library, so change everything without triyng to save lines of code.
+
+## Links I found usefull
+
+https://pytorch.org/docs/stable/nn.html
+
+### autoencoders pytorch
+
+https://medium.com/pytorch/implementing-an-autoencoder-in-pytorch-19baa22647d1
+
+https://www.geeksforgeeks.org/implementing-an-autoencoder-in-pytorch/
