@@ -37,3 +37,6 @@ Saving and Loading Models: https://pytorch.org/tutorials/beginner/basics/saveloa
 3 Video related to Time sequence prediction with LSTM: https://www.youtube.com/watch?v=AvKSPZ7oyVg
 
 
+## Deep Learning book with PyTorch implementations
+
+http://d2l.ai/
